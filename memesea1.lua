@@ -632,7 +632,7 @@ spawn(function()
     end
 end)
 
-local Fluent = loadstring(game:HttpGet("https://raw.githubusercontent.com/TranVanBao1411/Library/retard/Fluent.lua"))()
+local Fluent = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kid21107/KID-HUB/refs/heads/main/FluentUi.lua"))()
 
 local Window = Fluent:CreateWindow({
     Title = "Kid HUB | ".. game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId).Name,
