@@ -655,7 +655,7 @@ local Tabs = {
 
 local function Notify(v)
         Fluent:Notify({
-            Title = "Elgato Hub",
+            Title = "Kid Hub",
             Content = v,
             Duration = 5
         })
